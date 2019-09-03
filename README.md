@@ -1,3 +1,10 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zzzhang233/Jupyterlab/master)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/zzzhang233/Jupyterlab/master
+
+Create by zzzhang
+库: - spacy
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - pandas
+    - thinc
